@@ -18,7 +18,7 @@
   <img align="center" alt="Jean-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jean-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jean-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Jean-draw" src="https://discord.com/channels/728402642895765534/873598419166429224/881451212719939595?width=701&height=701">
+  <img align="right" alt="Jean-draw" src="https://cdn.discordapp.com/attachments/873598419166429224/881451971133992971/300px.jpg">
 </div>
  
  ##
