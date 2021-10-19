@@ -1,7 +1,7 @@
 ### Olá! Eu me chamo Jean!
 
 - 👨‍💻 Futuro Analista de Sistemas
-- 🌱 Eu estou atualmente estudando: React Native
+- 🌱 Eu estou atualmente estudando: Banco de Dados
 - 📫 Contate-me no email: jeancosta1000@gmail.com
 
  <div>
