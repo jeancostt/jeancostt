@@ -1,7 +1,6 @@
 ### Olá! Eu me chamo Jean!
 
-- 👨‍💻 Futuro Analista de Sistemas
-- 🌱 Eu estou atualmente estudando: Banco de Dados
+- 🌱 Eu estou atualmente me aperfeiçoando em Java.
 - 📫 Contate-me no email: jeancosta1000@gmail.com
 
  <div>
