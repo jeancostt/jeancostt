@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estou me aperfeiçoando em Java;
 - 📫 Contate-me no email: jeancosta1000@gmail.com;
-- 👨‍🎓 Systems Analysis and Development student at UNINOVE - FECAP.
+- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na FECAP.
 
  <div>
   <a href="https://github.com/jeancostt">
