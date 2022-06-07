@@ -1,6 +1,6 @@
 ### Olá! Eu me chamo Jean!
 
-- 🌱 Atualmente estou me aperfeiçoando em Java;
+- 🌱 Desenvolvedor Java;
 - 📫 Contate-me no email: jeancosta1000@gmail.com;
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na FECAP.
 
