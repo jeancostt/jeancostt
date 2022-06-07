@@ -1,8 +1,8 @@
 ### Olá! Eu me chamo Jean!
 
-- 🌱 Atualmente estou me aperfeiçoando em Java.
-- 📫 Contate-me no email: jeancosta1000@gmail.com
-- 👨‍🎓 Systems Analysis and Development student at UNINOVE - FECAP;
+- 🌱 Atualmente estou me aperfeiçoando em Java;
+- 📫 Contate-me no email: jeancosta1000@gmail.com;
+- 👨‍🎓 Systems Analysis and Development student at UNINOVE - FECAP.
 
  <div>
   <a href="https://github.com/jeancostt">
