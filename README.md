@@ -2,7 +2,6 @@
 
 - 🌱 Engenheiro de Software;
 - 📫 Contate-me no email: jeancosta1000@gmail.com;
-- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na FECAP.
 
  <div>
   <a href="https://github.com/jeancostt">
